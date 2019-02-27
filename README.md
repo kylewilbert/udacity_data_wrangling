@@ -4,10 +4,10 @@ Data Wrangling Project in Python completed for Udacity Data Analysis Nanodegree
 ## Contents
 - act_report.pdf - insights and results from wrangling and analysis
 - image-predictions.tsv - prediction results, provided by Udacity, downloaded programmatically
-- tweet_json.txt - text file of tweets, scraped using Twitter API and Tweepy 
+- tweet_json.txt - text file of tweets, scraped using Twitter API and Tweepy (code within wrangle_act.ipynb) 
 - twitter_archive_master.csv - cleaned dataset
 - twitter-archive-enhanced.csv - dataset provided by Udacity
-- wrangle_act.ipnyb - Jupyter notebook containing wrangling and analysis (basic structure provided by Udacity) 
+- wrangle_act.ipynb - Jupyter notebook containing wrangling and analysis (basic structure provided by Udacity) 
 - wrangle_report.pdf - notes about wrangling process and reflection on project results
 
 ## Overview of Project
